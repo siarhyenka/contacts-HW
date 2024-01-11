@@ -1,0 +1,33 @@
+.contacts__data {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+}
+
+.contacts__data input {
+    
+    padding: 5px;
+    width: 400px;
+}
+
+.contacts__button {
+    padding: 5px;
+}
+
+.contacts__users {
+    margin-top: 50px;
+}
+
+.contacts__users h2 {
+    text-align: center;
+}
+
+.contact__user {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    gap: 30px;
+}

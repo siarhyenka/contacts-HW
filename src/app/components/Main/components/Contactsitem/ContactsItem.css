@@ -1,0 +1,7 @@
+.contacts__item {
+    list-style-type: none;
+}
+
+.contacts__item li {
+    font-size: 17px;
+}
